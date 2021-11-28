@@ -14,7 +14,7 @@
   <div class="main">
     <div class="navbar">
       <div class="ion">
-        <h2 class="logo">Toàn Pro! &#128151</h2>
+        <h2 class="logo">Toàn Pro!</h2>
       </div>
       <div class="div.menu">
         <ul>
